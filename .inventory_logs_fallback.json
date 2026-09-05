@@ -1,0 +1,15 @@
+[
+  {
+    "id": "inv-1",
+    "productId": "prod-1",
+    "productName": "Bangladesh National Football Team Official Home Jersey 2026",
+    "sku": "BD-NT-2026-HM",
+    "type": "in",
+    "quantity": 50,
+    "previousStock": 0,
+    "newStock": 50,
+    "notes": "Initial production shipment from manufacturing factory",
+    "createdByName": "Super Admin",
+    "createdAt": "2026-02-01T09:00:00.000Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Jersey Mention BD",
+  "description": "Enterprise E-commerce platform for Jersey Mention BD with admin dashboard, product catalog, cart, checkout, local BD payment gateways, order tracking, reviews, and dynamic content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "siteName": "Jersey Mention BD",
+  "tagLine": "Premium Authentic Sports Jerseys & Apparel in Bangladesh",
+  "logo": "/images/logo.png",
+  "favicon": "/images/logo.png",
+  "contactEmail": "admin@jerseymentionbd.com",
+  "contactPhone": "01640581442",
+  "whatsappNumber": "01640581442",
+  "address": "House 42, Road 11, Block D, Banani, Dhaka 1213, Bangladesh",
+  "facebookUrl": "https://facebook.com/jerseymentionbd",
+  "instagramUrl": "https://instagram.com/jerseymentionbd",
+  "youtubeUrl": "https://youtube.com/@jerseymentionbd",
+  "currencySymbol": "৳",
+  "taxRate": 5,
+  "insideDhakaShippingFee": 80,
+  "outsideDhakaShippingFee": 150,
+  "freeShippingThreshold": 3000,
+  "aboutUsText": "Jersey Mention BD is Bangladesh's leading destination for premium player version jerseys, fan merchandise, retro classics, custom squad printing, and authentic athletic wear.",
+  "privacyPolicy": "We respect customer data privacy and use secure HttpOnly cookies and encrypted tokens.",
+  "termsAndConditions": "All orders subject to delivery confirmation. Custom printed jerseys non-refundable unless damaged.",
+  "refundPolicy": "Easy 7-day return policy for standard merchandise. Video unboxing required.",
+  "shippingPolicy": "Home delivery inside Dhaka within 24-48 hours. Express courier outside Dhaka within 2-4 days."
+}

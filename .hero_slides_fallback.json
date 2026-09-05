@@ -1,0 +1,35 @@
+[
+  {
+    "id": "slide-1",
+    "title": "BANGLADESH NATIONAL TEAM 2026",
+    "subtitle": "Official Player Version Match Kit with AeroReady Ventilation & Custom Name Printing",
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1600&q=80",
+    "badge": "NEW ARRIVAL 2026",
+    "link": "/catalog?category=national-teams",
+    "buttonText": "SHOP NATIONAL GEAR",
+    "order": 1,
+    "isActive": true
+  },
+  {
+    "id": "slide-2",
+    "title": "EUROPEAN CLUB EDITION 2025/26",
+    "subtitle": "Real Madrid, Barcelona, Man City, Arsenal & Inter Miami Authentic Kits",
+    "image": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?auto=format&fit=crop&w=1600&q=80",
+    "badge": "FLASHSALE 20% OFF",
+    "link": "/catalog?category=club-football",
+    "buttonText": "EXPLORE CLUB KITS",
+    "order": 2,
+    "isActive": true
+  },
+  {
+    "id": "slide-3",
+    "title": "CUSTOM SQUAD PRINTING",
+    "subtitle": "Personalize Your Jersey with Official Fonts, Squad Numbers & Sleeve Badges",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=1600&q=80",
+    "badge": "EXPRESS PRINTING BD",
+    "link": "/catalog?category=custom-printed",
+    "buttonText": "CUSTOMIZE NOW",
+    "order": 3,
+    "isActive": true
+  }
+]

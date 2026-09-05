@@ -1,0 +1,11 @@
+[
+  {
+    "id": "notif-1",
+    "userId": "usr-admin-1",
+    "title": "New Order Received",
+    "message": "Order #JMB-2026-1001 placed by Tanvir Ahmed (৳1,544 via bKash)",
+    "type": "order",
+    "read": false,
+    "createdAt": "2026-02-03T11:00:00.000Z"
+  }
+]

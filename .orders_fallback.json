@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ord-1001",
+    "orderNumber": "JMB-2026-1001",
+    "userId": "usr-cust-1",
+    "customerName": "Tanvir Ahmed",
+    "customerEmail": "customer@jerseymention.bd",
+    "customerPhone": "01812345678",
+    "shippingAddress": {
+      "id": "addr-1",
+      "name": "Tanvir Ahmed",
+      "phone": "01812345678",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "address": "House 12, Road 4, Sector 7, Uttara",
+      "area": "Uttara",
+      "zipCode": "1230"
+    },
+    "items": [
+      {
+        "id": "item-1",
+        "productId": "prod-1",
+        "name": "Bangladesh National Football Team Official Home Jersey 2026",
+        "price": 1490,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=400&q=80",
+        "size": "L",
+        "color": "Emerald Green",
+        "customPrint": {
+          "playerName": "TANVIR",
+          "playerNumber": "10"
+        }
+      }
+    ],
+    "subtotal": 1490,
+    "tax": 74,
+    "shippingFee": 80,
+    "discount": 100,
+    "couponCode": "JERSEYBD100",
+    "grandTotal": 1544,
+    "totalAmount": 1544,
+    "paymentMethod": "bkash",
+    "paymentStatus": "paid",
+    "paymentDetails": {
+      "transactionId": "TRX9A8B7C6D",
+      "senderNumber": "01812345678",
+      "paidAt": "2026-02-03T11:00:00.000Z"
+    },
+    "orderStatus": "delivered",
+    "notes": "Please call before delivery.",
+    "trackingNumber": "STEADFAST-998123",
+    "timeline": [
+      {
+        "status": "pending",
+        "title": "Order Placed",
+        "description": "Order submitted via bKash payment",
+        "timestamp": "2026-02-03T11:00:00.000Z"
+      },
+      {
+        "status": "confirmed",
+        "title": "Payment Confirmed",
+        "description": "bKash transaction TRX9A8B7C6D verified",
+        "timestamp": "2026-02-03T11:05:00.000Z"
+      },
+      {
+        "status": "processing",
+        "title": "Custom Printing",
+        "description": "Name TANVIR #10 heat pressed",
+        "timestamp": "2026-02-03T14:00:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "title": "Handed to Courier",
+        "description": "Handed to Steadfast Express (Consignment STEADFAST-998123)",
+        "timestamp": "2026-02-04T09:00:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "title": "Delivered",
+        "description": "Package signed and delivered to Uttara customer",
+        "timestamp": "2026-02-04T16:30:00.000Z"
+      }
+    ],
+    "createdAt": "2026-02-03T11:00:00.000Z"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "coup-1",
+    "code": "JERSEYBD100",
+    "discountType": "fixed",
+    "discountValue": 100,
+    "minPurchase": 1000,
+    "expireDate": "2026-12-31",
+    "usageLimit": 500,
+    "usedCount": 42,
+    "isActive": true
+  },
+  {
+    "id": "coup-2",
+    "code": "EID2026",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minPurchase": 2000,
+    "maxDiscount": 500,
+    "expireDate": "2026-06-30",
+    "usageLimit": 1000,
+    "usedCount": 189,
+    "isActive": true
+  }
+]
